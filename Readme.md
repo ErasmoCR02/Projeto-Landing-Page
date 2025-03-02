@@ -11,7 +11,7 @@
 ![alt text](Projeto-mobile.gif)
 ## Indice
 - Seção Inicial - Home
-- Seção de servicçoes - Service
+- Seção de serviços - Service
 - Seção de projetos - Projects
 - SEção de contato - Contact
 
