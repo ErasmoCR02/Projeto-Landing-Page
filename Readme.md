@@ -3,8 +3,11 @@
 
 ## Imagens do projeto
 - Desktop
+
 ![alt text](Projeto-Desktop.gif)
+
 - Mobile
+
 ![alt text](Projeto-mobile.gif)
 ## Indice
 - Seção Inicial - Home
@@ -12,7 +15,7 @@
 - Seção de projetos - Projects
 - SEção de contato - Contact
 
-## Instalção
+## Instalação
 - Clone o repositório em sua máquina e refatore o código como quiser
 - Se você ainda não tem o Git instalado, você pode baixá-lo e instalá-lo a partir do site oficial: git-scm.com.
 - No Windows, você pode usar o Prompt de Comando, PowerShell ou o terminal do Git Bash. No macOS e Linux, use o Terminal.
